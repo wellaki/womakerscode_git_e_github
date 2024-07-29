@@ -16,3 +16,5 @@
 ### Git Add [ Caminho do Arquivo ]
 
 **Adiciona um arquivo em específico.
+
+### Git Commit
