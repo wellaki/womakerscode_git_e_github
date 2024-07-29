@@ -1,5 +1,7 @@
 ## Notas de Aula Referentes ao Módulo 1 do Curso Git e Github
 
-### Nota 1
+### Instalação do Git
 
-### Nota 2
+### Configuração do Git
+
+### Comandos
